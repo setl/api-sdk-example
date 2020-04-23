@@ -1,0 +1,16 @@
+{
+  "name": "setl-api-sdk-example",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "express": "node express.js"
+  },
+  "author": "SETL Limited",
+  "license": "",
+  "dependencies": {
+    "@setl/api-sdk": "^0.1.1",
+    "express": "^4.17.1"
+  }
+}
