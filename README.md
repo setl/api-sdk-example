@@ -4,7 +4,7 @@ The SETL API SDK Example's allowing your to connect to the SETL Blockchain using
 
 ## Documentation
 
-See the [`SETL Labs` API docs](https://setllabs.io/labs/api) for more information (sign-up required).
+See the [`SETL Labs` API docs](https://setl.io/labs/api) for more information (sign-up required).
 
 You can also use our [`SETL API Explorer`](https://setl.io/labs/api/explorer) for ease of use
 
